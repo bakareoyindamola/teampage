@@ -35,4 +35,9 @@
      .meet:after {
          left: 42.5%;
     }
+
+    .socials {
+        padding: 5px 20px;
+    }
 }
+
